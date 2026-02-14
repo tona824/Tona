@@ -1,0 +1,18 @@
+/*
+ * Style.css - A CSS file with vibrant colors and Arabic support.
+ */
+
+body {
+    background-color: #ffcc00;
+    color: #000;
+}
+
+h1, h2, h3 {
+    color: #ff5733;
+}
+
+/* Arabic support */
+body {
+    font-family: 'Arial', sans-serif;
+    direction: rtl;
+}
